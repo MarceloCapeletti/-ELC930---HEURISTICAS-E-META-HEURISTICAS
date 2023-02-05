@@ -1,6 +1,6 @@
 # PROPOSTA DE SOLUÇÃO DO PROBLEMA DE SEQUENCIAMENTO EM PROCESSADORES PARALELOS IDÊNTICOS ATRAVÉS DE HEURISTICAS E METAS HEURISTICAS 
 
-# Código desenvolvido durante a disciplina ELC930 do PPGEP
+# Código desenvolvido durante a disciplina ELC930 do PPGEP-UFSM
 
 O presente instrumento tem a objetivo de abordar o problema de Sequenciamento (Scheduling), 
 do qual pode ser representado por P | tpds | Cmax, assim sendo, caracteriza se pelo sequenciamento n tarefas a m processadores paralelos idênticos
